@@ -1,0 +1,72 @@
+body{
+    font-family: 'Lucida console', sans-serif;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+h1{
+    font-size: 64px;
+    text-align: center;
+    padding: 10px;
+}
+
+h2{
+    font-size: 64px;
+    text-shadow: #808080 4px 4px 2px;
+}
+
+p{
+    font-size: 24px;
+    padding-top: 15px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 550px;
+    height: auto;
+}
+
+div{
+    min-height: 150px;
+    padding: 25px;
+}
+
+#red{
+    background-color: #ff0000;
+    text-align: right;
+}
+
+
+
+#blue{
+    background-color: #0000ff;
+    text-align: left;
+}
+
+
+
+#yellow{
+    background-color: #FFFF00;
+    text-align: right;
+}
+
+#yellow h2{
+    color: black;
+    text-shadow: #808080 4px 4px 2px;
+}
+
+#yellow p{
+    color: black;
+}
+
+#green{
+    background-color: #00ff00;
+    text-align: left;
+}
+
+footer p{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
